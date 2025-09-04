@@ -13,7 +13,6 @@ const Login = () => {
             <div className="max-w-5xl w-full grid grid-cols-1 md:grid-cols-2 gap-8 items-center p-8">
                 <ChatIllustration />
                 <div className="bg-white rounded-2xl p-8">
-                {/* your sign up form here */} 
                     <div className='flex flex-col gap-4 items-right justify-right absolute top-25 right-25'>  
                         <h1 className="text-7xl font-bold">Log in</h1>
                         <form className='flex flex-col gap-4'>
