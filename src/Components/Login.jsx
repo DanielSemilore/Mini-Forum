@@ -60,7 +60,7 @@ const Login = () => {
                                 <p className="font-bold text-base sm:text-xl pt-4">
                                     <em>Don't have an account?</em>
                                 </p>
-                                <a href="/signup" rel="noopener noreferrer" className="inline-block mt-4 w-full h-12 sm:h-16 bg-green-500 hover:bg-green-600 active:bg-green-700 text-white rounded-xl text-xl sm:text-3xl font-bold shadow transition-transform duration-200 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-green-500" target="_blank">
+                                <a href="/signup" rel="noopener noreferrer" className="inline-block mt-4 w-full h-12 sm:h-16 bg-green-500 hover:bg-green-600 active:bg-green-700 text-white rounded-xl text-xl sm:text-3xl font-bold shadow transition-transform duration-200 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-green-500">
                                     Sign Up
                                 </a>
                             </div>
